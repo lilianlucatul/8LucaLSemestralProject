@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.java.j2seproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+            <name>SemestralniPrace</name>
+            <source-roots>
+                <root id="src.dir"/>
+            </source-roots>
+            <test-roots>
+                <root id="test.src.dir"/>
+            </test-roots>
+        </data>
+        <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>Aplikace</word>
+            <word>bodu</word>
+            <word>dle</word>
+            <word>jednotlivych</word>
+            <word>ktere</word>
+            <word>Metoda</word>
+            <word>mezi</word>
+            <word>pocatku</word>
+            <word>poli</word>
+            <word>praci</word>
+            <word>radky</word>
+            <word>sadu</word>
+            <word>souradne</word>
+            <word>soustavy</word>
+            <word>tridi</word>
+            <word>ulohou</word>
+            <word>uzivatel</word>
+            <word>vanocni</word>
+            <word>ve</word>
+            <word>vybira</word>
+            <word>vymenuje</word>
+            <word>vzdalenosti</word>
+            <word>vzrustajici</word>
+        </spellchecker-wordlist>
+    </configuration>
+</project>
