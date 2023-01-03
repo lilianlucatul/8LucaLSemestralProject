@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 /**
  * Aplikace ve ktere uzivatel vybira mezi vanocni ulohou a semestralni praci.
+ *
  * @author Lilian
  */
 public class Aplikace {
@@ -20,7 +21,7 @@ public class Aplikace {
                            """;
         System.out.print(menu);
         int volba = scanner.nextInt();
-        do{
+        do {
             switch (volba) {
                 case 0:
                     System.exit(0);
@@ -37,11 +38,10 @@ public class Aplikace {
                     System.out.print(menu);
                     volba = scanner.nextInt();
                     break;
+                default:
+                    System.out.println(menu);
+                    volba = scanner.nextInt();
             }
-            while(volba != 1 && volba != 2 && volba != 0){
-                System.out.println(menu);
-                volba = scanner.nextInt();
-            }
-        }while(volba == 1 || volba == 2);
+        } while (true);
     }
 }
